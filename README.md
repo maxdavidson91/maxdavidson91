@@ -1,6 +1,6 @@
 ## 👋 Hello
 - 👋 Hi, I’m Max and I'm a Data Engineer from the UK
-- 🌱 I’m currently learning AWS Developer - Associate
+- 🌱 I’m currently learning AWS Data Engineer - Associate
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
